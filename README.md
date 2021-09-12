@@ -1,5 +1,9 @@
 # minmax.js
 
+> It does exactly what you expected.
+
+## Installation
+
 <h3 align="left">
   <pre lang="bash">$ npm add minmax.js</pre>
 </h3>
