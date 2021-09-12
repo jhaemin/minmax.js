@@ -1,3 +1,4 @@
-const minmax = (value, min, max) => Math.min(Math.max(value, min), max)
+const minmax = (value, min = -Infinity, max = Infinity) =>
+  Math.min(Math.max(value, min), max)
 
 export default minmax
