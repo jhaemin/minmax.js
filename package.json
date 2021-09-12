@@ -1,0 +1,21 @@
+{
+  "name": "min-max",
+  "version": "1.0.0-beta.1",
+  "description": "",
+  "main": "./lib.cjs.js",
+  "jsnext:main": "./lib.js",
+  "module": "./lib.js",
+  "author": "Jang Haemin",
+  "license": "MIT",
+  "keywords": [
+    "minmax"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6"
+  },
+  "scripts": {
+    "build:cjs": "babel --config-file ./babel-cjs.config.js lib.js --out-file lib.cjs.js"
+  }
+}
