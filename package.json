@@ -5,6 +5,7 @@
   "main": "./lib.cjs.js",
   "jsnext:main": "./lib.js",
   "module": "./lib.js",
+  "types": "./types.d.ts",
   "author": "Jang Haemin",
   "license": "MIT",
   "keywords": [
