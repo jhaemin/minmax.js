@@ -19,6 +19,7 @@ It returns `number`.
 ```js
 import minmax from 'minmax.js'
 
+minmax(2, 5, 20) // 5
 minmax(10, 5, 20) // 10
 minmax(0, 20, 30) // 20
 minmax(90, 30, 50) // 50
