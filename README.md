@@ -27,4 +27,4 @@ minmax(90, 30, 50) // 50
 
 ## License
 
-MIT
+[MIT](https://github.com/jhaemin/minmax.js/blob/main/LICENSE)
