@@ -4,13 +4,13 @@
 
 ## Installation
 
-<h3 align="left">
-  <pre lang="bash">$ npm add minmax.js</pre>
-</h3>
+```bash
+$ npm add minmax.js
+```
 
 ## API
 
-### `minmax(value: number, min?: number, max?: number): number`
+**`minmax(value: number, min?: number, max?: number): number`**
 
 - `value`: Value to evaluate.
 - `min`: Minimum value. Default is `-Infinity`.
